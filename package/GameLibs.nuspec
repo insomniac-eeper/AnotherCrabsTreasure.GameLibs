@@ -3,8 +3,8 @@
   <metadata>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 
-    <!-- Version of your nuget package. Should reflect the game version where the libs come from. -->
-    <version>1.0.103.3</version>
+    <!-- Version of your nuget package. Should reflect the game version where the libs come from.-->
+    <version>1.0.103.3-minimal</version>
 
     <!-- The GitHub workflow will automatically populate these. -->
     <id>$name$</id>
